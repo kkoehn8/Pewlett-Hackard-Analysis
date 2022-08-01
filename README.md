@@ -42,7 +42,7 @@ After performing the analysis and looking at the results there are some insights
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 As shown in the image above there are 72,458 employees who are approaching retirement age with the majority of these employees being Senior level staff. Running an analysis of the current employees who are not nearing retirement age shows that Pewlett Hackard currently has 167,666 employees and they are divided into titles as shown in the following screen capture.
 
-![available_unique](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Available_Unique_Results.png)
+![available_unique](https://github.com/kkoehn8/Pewlett-Hackard-Analysis/blob/main/Available_Unique_Results.PNG)
 
 This analysis shows that the 72,458 employees who are approaching retirement age is 30% of the total workforce of 240,124 employees at Pewlett Hackard. The breakdown above shows that while many of the retirement approaching employees are Senior level staff, Pewlett Hackard does still have a large proportion of Senior level staff. If every employee retiring needs to be replaced that would mean Pewlett Hackard would need to increase their workforce by 30%. If 
 
@@ -58,12 +58,3 @@ A secondary analysis of the departments of the retirement-ready employees is sho
 ![retire_dept](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Retire_Dept.png)
 
 Based on this analysis we can determine that if every one of the mentorship available employees (1,549 employees) is in the same department we would have enough retirement-ready employees to mentor them. 
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         qx           
-
-
-
-
-
-
-
