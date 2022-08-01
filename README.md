@@ -26,12 +26,13 @@ As part of the analysis into employment at Pewlett Hackard a number of queiries 
  - The analysis of unique titles shows us that we have 72,458 employees who are eligible for retirement based on their age. This can be seen below in the result of the query and in the exported table.
 
 
-![Ret_unique_query](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Ret_Unique_Query.png)
-![ret_unique_table](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Ret_Unique_Table.png)
+![Ret_unique_query](https://github.com/kkoehn8/Pewlett-Hackard-Analysis/blob/main/Ret_Unique_Query.PNG)
+
+![ret_unique_table](https://github.com/kkoehn8/Pewlett-Hackard-Analysis/blob/main/Ret_Unique_Results.PNG)
 
  - One of the points of analysis was to perform a count of the retiring titles. The results as shown below demonstrate that a large portion of the retiring employees (Senior Engineer = 25,916 and Senior Staff = 24,926) are senior level staff. This result should not be a surprise, we would expect that as employees reach retirement age they will be more senior level staff, however it should remind Pewlett Hackard management that they will need more employees who are capable of stepping into senior level roles to compensate for the retiring employees.
 
-![retiring_titles](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Retiring_Titles.png)
+![retiring_titles](https://github.com/kkoehn8/Pewlett-Hackard-Analysis/blob/main/Retiring_Titles.PNG)
 
  - When looking at the employees who are eligible for mentorship we notice that there are only 1,549 employees who currently qualify.
 
@@ -49,12 +50,12 @@ This analysis shows that the 72,458 employees who are approaching retirement age
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 When running the analysis to determine the employees availble for mentorship the table below shows that 1,549 employess are available. 
 
-![mentorship_eligibility](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/mentorship_eligibility.png)
+![mentorship_eligibility](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/mentorship_eligibility.PNG)
 
 One of the parameters of this query was the employee's birth date.
 
 A secondary analysis of the departments of the retirement-ready employees is shown below and as can be seen, the department with the fewest retirement-ready employees is the Finance Department with 1,908 employees. 
 
-![retire_dept](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Retire_Dept.png)
+![retire_dept](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Retire_Dept.PNG)
 
 Based on this analysis we can determine that if every one of the mentorship available employees (1,549 employees) is in the same department we would have enough retirement-ready employees to mentor them. 
