@@ -37,15 +37,28 @@ As part of the analysis into employment at Pewlett Hackard a number of queiries 
 
 ## Summary
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+After performing the analysis and looking at the results there are some insights listed above however there are some additional questions that can be posed and additional analysis that can be conducted.
 
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+As shown in the image above there are 72,458 employees who are approaching retirement age with the majority of these employees being Senior level staff. Running an analysis of the current employees who are not nearing retirement age shows that Pewlett Hackard currently has 167,666 employees and they are divided into titles as shown in the following screen capture.
 
+![available_unique](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Available_Unique_Results.png)
 
- - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+This analysis shows that the 72,458 employees who are approaching retirement age is 30% of the total workforce of 240,124 employees at Pewlett Hackard. The breakdown above shows that while many of the retirement approaching employees are Senior level staff, Pewlett Hackard does still have a large proportion of Senior level staff. If every employee retiring needs to be replaced that would mean Pewlett Hackard would need to increase their workforce by 30%. If 
 
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+When running the analysis to determine the employees availble for mentorship the table below shows that 1,549 employess are available. 
 
+![mentorship_eligibility](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/mentorship_eligibility.png)
 
- - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+One of the parameters of this query was the employee's birth date.
+
+A secondary analysis of the departments of the retirement-ready employees is shown below and as can be seen, the department with the fewest retirement-ready employees is the Finance Department with 1,908 employees. 
+
+![retire_dept](https://github.com/kkoehn8/Pewlett-Hackard_Analysis/blob/main/Retire_Dept.png)
+
+Based on this analysis we can determine that if every one of the mentorship available employees (1,549 employees) is in the same department we would have enough retirement-ready employees to mentor them. 
+
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          qx           
 
 
